@@ -1,0 +1,10 @@
+*.zip
+/bin
+/docs
+/obj
+GeneticTuner/Specimen\\*
+*.DS_Store
+TODO
+GeneticTuner/Specimen2\*
+/GeneticTuner/Specimen2/*
+/GeneticTuner/Specimen/*
